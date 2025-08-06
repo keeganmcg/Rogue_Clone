@@ -5,6 +5,8 @@
 #   KMcGuire, 7/28/25, Added @ character, need to fix horizontal movement,
 #   created input_handlers.py and actions.py.
 #   KMcGuire, 7/30/25, Added entity.py, engine.py. Cleaned main.py.
+#   KMcGuire, 8/4/25, Added random map generator
+#   KMcGuire, 8/5/25, Added field of view
 #------------------------------------------------------------------------------
 
 #!/usr/bin/env python3
